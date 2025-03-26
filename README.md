@@ -16,6 +16,6 @@ El análisis de señales EMG permite evaluar la fatiga muscular a través de cam
 
 ## Adquisición de la señal EMG:
 
-  
+  adsadadadsa
 
 
