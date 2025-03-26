@@ -1,2 +1,4 @@
-# Laboratorio 4 Fatiga muscular
+# Laboratorio 4: Fatiga muscular    
+
+## Introducción 
 
